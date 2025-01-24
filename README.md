@@ -33,4 +33,8 @@
   </a>
 </div>
 
+##
 
+<img src="https://raw.githubusercontent.com/gaseines/gaseines/output/snake.svg" alt="Snake animation" />
+
+###
